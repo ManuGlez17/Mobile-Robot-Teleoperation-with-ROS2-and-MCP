@@ -1,0 +1,10 @@
+topics:
+  - 
+    topic: /RosAria/cmd_vel
+    type: geometry_msgs/msg/Twist
+  - 
+    topic: /RosAria/pose
+    type: nav_msgs/msg/Odometry
+  -
+    topic: /RosAria/sonar_pc2
+    type: sensor_msgs/msg/PointCloud2
