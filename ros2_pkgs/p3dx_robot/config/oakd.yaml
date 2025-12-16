@@ -1,0 +1,4 @@
+oak:
+  ros__parameters:
+    base_frame: oak_d_mount
+    enable_pointcloud: true
